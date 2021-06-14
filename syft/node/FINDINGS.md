@@ -4,7 +4,7 @@ Gets full information on all *indirectly installed node modules* that come with 
 * name
 * version
 * url (source?)
-* source version (for some, not all)
+* source SHA (for some, not all)
 * location within layer
 * licenses (for some, not all)
 * CPEs
