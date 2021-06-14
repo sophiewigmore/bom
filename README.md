@@ -17,6 +17,12 @@ CycloneDX and SPDX.
 * [Yarn example](https://github.com/sophiewigmore/bom/blob/master/pack/yarn)
 * Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
 
+* [Go Mod example](https://github.com/sophiewigmore/bom/blob/master/pack/go-mod)
+* Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
+
+* [Maven example](https://github.com/sophiewigmore/bom/blob/master/pack/maven)
+* Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/maven)
+
 #### [Syft](https://github.com/anchore/syft)
 * [Node.JS example](https://github.com/sophiewigmore/bom/blob/master/syft/node)
 * Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
@@ -26,3 +32,9 @@ CycloneDX and SPDX.
 
 * [NPM example](https://github.com/sophiewigmore/bom/blob/master/syft/yarn)
 * Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
+
+* [Go Mod example](https://github.com/sophiewigmore/bom/blob/master/syft/go-mod)
+* Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
+
+* [Maven example](https://github.com/sophiewigmore/bom/blob/master/syft/maven)
+* Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/maven)
