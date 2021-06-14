@@ -255,8 +255,7 @@
        "algorithm": "md5",
        "value": "987147c2d9d09336ca8e21267f2707ce"
       },
-      "isConfigFile": false
-     },
+        },
      {
       "path": "/usr/share/man/es/man5/deluser.conf.5.gz",
       "digest": {
