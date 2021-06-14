@@ -11,7 +11,18 @@ CycloneDX and SPDX.
 * [Node.JS example](https://github.com/sophiewigmore/bom/blob/master/pack/node)
 * Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
 
+* [NPM example](https://github.com/sophiewigmore/bom/blob/master/pack/npm)
+* Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
+
+* [Yarn example](https://github.com/sophiewigmore/bom/blob/master/pack/yarn)
+* Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
 
 #### [Syft](https://github.com/anchore/syft)
 * [Node.JS example](https://github.com/sophiewigmore/bom/blob/master/syft/node)
 * Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
+
+* [NPM example](https://github.com/sophiewigmore/bom/blob/master/syft/npm)
+* Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
+
+* [NPM example](https://github.com/sophiewigmore/bom/blob/master/syft/yarn)
+* Sample app from: [samples repo](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
