@@ -1,0 +1,1523 @@
+{
+  "artifacts": [
+    {
+      "id": "6865bcc4-0286-4117-93b6-7162cbdbc47d",
+      "name": "accepts",
+      "version": "1.3.7",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:accepts:accepts:1.3.7:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:accepts:accepts:1.3.7:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:accepts:1.3.7:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:accepts:1.3.7:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:accepts:accepts:1.3.7:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:accepts:1.3.7:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/accepts@1.3.7",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "d6d73f0a-c860-4acc-bdcf-2b0148b625c4",
+      "name": "array-flatten",
+      "version": "1.1.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:array_flatten:array-flatten:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:array-flatten:array_flatten:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:array-flatten:array_flatten:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:array_flatten:array_flatten:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:array-flatten:array-flatten:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:array-flatten:array-flatten:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:array_flatten:array-flatten:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:array_flatten:array_flatten:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:array_flatten:array-flatten:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:array-flatten:array-flatten:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:array_flatten:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:array_flatten:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:array-flatten:array_flatten:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:array-flatten:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:array-flatten:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:array_flatten:array_flatten:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:array_flatten:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:array-flatten:1.1.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/array-flatten@1.1.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "562bf42b-bc3b-435e-90de-2a7ff46c0b63",
+      "name": "body-parser",
+      "version": "1.19.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:body_parser:body-parser:1.19.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:body-parser:body_parser:1.19.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:body-parser:body_parser:1.19.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:body_parser:body_parser:1.19.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:body-parser:body-parser:1.19.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:body-parser:body-parser:1.19.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:body_parser:body-parser:1.19.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:body_parser:body_parser:1.19.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:body_parser:body-parser:1.19.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:body-parser:body-parser:1.19.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:body_parser:1.19.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:body_parser:1.19.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:body-parser:body_parser:1.19.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:body-parser:1.19.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:body-parser:1.19.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:body_parser:body_parser:1.19.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:body_parser:1.19.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:body-parser:1.19.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/body-parser@1.19.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "141d33bb-b286-48b7-a37e-fd07b75ae5b0",
+      "name": "bytes",
+      "version": "3.1.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:bytes:bytes:3.1.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:bytes:bytes:3.1.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:bytes:3.1.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:bytes:3.1.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:bytes:bytes:3.1.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:bytes:3.1.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/bytes@3.1.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "f75a9e1f-1c1e-4e21-81ac-84b6e3c77591",
+      "name": "content-disposition",
+      "version": "0.5.3",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:content_disposition:content-disposition:0.5.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:content-disposition:content_disposition:0.5.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:content-disposition:content_disposition:0.5.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:content_disposition:content_disposition:0.5.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:content-disposition:content-disposition:0.5.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:content-disposition:content-disposition:0.5.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:content_disposition:content-disposition:0.5.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:content_disposition:content_disposition:0.5.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:content_disposition:content-disposition:0.5.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:content-disposition:content-disposition:0.5.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:content_disposition:0.5.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:content_disposition:0.5.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:content-disposition:content_disposition:0.5.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:content-disposition:0.5.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:content-disposition:0.5.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:content_disposition:content_disposition:0.5.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:content_disposition:0.5.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:content-disposition:0.5.3:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/content-disposition@0.5.3",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "04be3c29-06e6-457b-afd9-741fdc04ee5a",
+      "name": "content-type",
+      "version": "1.0.4",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:content_type:content-type:1.0.4:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:content-type:content_type:1.0.4:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:content-type:content_type:1.0.4:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:content_type:content_type:1.0.4:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:content-type:content-type:1.0.4:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:content-type:content-type:1.0.4:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:content_type:content-type:1.0.4:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:content_type:content_type:1.0.4:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:content_type:content-type:1.0.4:*:*:*:*:*:*:*",
+        "cpe:2.3:a:content-type:content-type:1.0.4:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:content_type:1.0.4:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:content_type:1.0.4:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:content-type:content_type:1.0.4:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:content-type:1.0.4:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:content-type:1.0.4:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:content_type:content_type:1.0.4:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:content_type:1.0.4:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:content-type:1.0.4:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/content-type@1.0.4",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "e0946bff-2a3d-4b60-849f-b6c0158fc994",
+      "name": "cookie",
+      "version": "0.4.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:cookie:cookie:0.4.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:cookie:cookie:0.4.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:cookie:0.4.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:cookie:0.4.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:cookie:cookie:0.4.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:cookie:0.4.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/cookie@0.4.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "33fec433-5968-49c9-a336-6b073cc2d329",
+      "name": "cookie-signature",
+      "version": "1.0.6",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:cookie_signature:cookie-signature:1.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:cookie-signature:cookie_signature:1.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:cookie-signature:cookie_signature:1.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:cookie_signature:cookie_signature:1.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:cookie-signature:cookie-signature:1.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:cookie-signature:cookie-signature:1.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:cookie_signature:cookie-signature:1.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:cookie_signature:cookie_signature:1.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:cookie_signature:cookie-signature:1.0.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:cookie-signature:cookie-signature:1.0.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:cookie_signature:1.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:cookie_signature:1.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:cookie-signature:cookie_signature:1.0.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:cookie-signature:1.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:cookie-signature:1.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:cookie_signature:cookie_signature:1.0.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:cookie_signature:1.0.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:cookie-signature:1.0.6:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/cookie-signature@1.0.6",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "0ef8cf4b-08ab-4c12-ba9a-a97acbf7663c",
+      "name": "debug",
+      "version": "2.6.9",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:debug:debug:2.6.9:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:debug:debug:2.6.9:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:debug:2.6.9:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:debug:2.6.9:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:debug:debug:2.6.9:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:debug:2.6.9:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/debug@2.6.9",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "493d9451-e033-4287-b517-4dc9d8661e64",
+      "name": "depd",
+      "version": "1.1.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:depd:depd:1.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:depd:depd:1.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:depd:1.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:depd:1.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:depd:depd:1.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:depd:1.1.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/depd@1.1.2",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "5d06e2dc-95a0-4170-be83-3d70e870c1cb",
+      "name": "destroy",
+      "version": "1.0.4",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:destroy:destroy:1.0.4:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:destroy:destroy:1.0.4:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:destroy:1.0.4:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:destroy:1.0.4:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:destroy:destroy:1.0.4:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:destroy:1.0.4:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/destroy@1.0.4",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "ed67333d-a805-4873-84fd-a079d24ebc52",
+      "name": "ee-first",
+      "version": "1.1.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:ee_first:ee-first:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:ee-first:ee_first:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:ee-first:ee_first:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:ee_first:ee_first:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:ee-first:ee-first:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:ee-first:ee-first:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:ee_first:ee-first:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:ee_first:ee_first:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:ee_first:ee-first:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:ee-first:ee-first:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:ee_first:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:ee_first:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:ee-first:ee_first:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:ee-first:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:ee-first:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:ee_first:ee_first:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:ee_first:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:ee-first:1.1.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/ee-first@1.1.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "d7686a0d-7cb5-4dc5-a9c3-e2fa651ee490",
+      "name": "encodeurl",
+      "version": "1.0.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:encodeurl:encodeurl:1.0.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:encodeurl:encodeurl:1.0.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:encodeurl:1.0.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:encodeurl:1.0.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:encodeurl:encodeurl:1.0.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:encodeurl:1.0.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/encodeurl@1.0.2",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "9465c1c0-08a6-4384-ac0c-62312711db9e",
+      "name": "escape-html",
+      "version": "1.0.3",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:escape_html:escape-html:1.0.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:escape-html:escape_html:1.0.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:escape-html:escape_html:1.0.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:escape_html:escape_html:1.0.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:escape-html:escape-html:1.0.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:escape-html:escape-html:1.0.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:escape_html:escape-html:1.0.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:escape_html:escape_html:1.0.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:escape_html:escape-html:1.0.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:escape-html:escape-html:1.0.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:escape_html:1.0.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:escape_html:1.0.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:escape-html:escape_html:1.0.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:escape-html:1.0.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:escape-html:1.0.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:escape_html:escape_html:1.0.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:escape_html:1.0.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:escape-html:1.0.3:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/escape-html@1.0.3",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "4a0079d3-209a-485f-823c-77d6948b95d0",
+      "name": "etag",
+      "version": "1.8.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:etag:etag:1.8.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:etag:etag:1.8.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:etag:1.8.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:etag:1.8.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:etag:etag:1.8.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:etag:1.8.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/etag@1.8.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "5a0e69ea-438b-4379-9837-3d7d4faa4de6",
+      "name": "express",
+      "version": "4.17.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:express:express:4.17.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:express:express:4.17.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:express:4.17.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:express:4.17.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:express:express:4.17.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:express:4.17.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/express@4.17.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "698b7ea8-3325-49f7-b1f9-2173306db9e5",
+      "name": "finalhandler",
+      "version": "1.1.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:finalhandler:finalhandler:1.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:finalhandler:finalhandler:1.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:finalhandler:1.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:finalhandler:1.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:finalhandler:finalhandler:1.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:finalhandler:1.1.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/finalhandler@1.1.2",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "127de316-f8b2-4b39-9fe7-ff517e31ebd1",
+      "name": "forwarded",
+      "version": "0.1.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:forwarded:forwarded:0.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:forwarded:forwarded:0.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:forwarded:0.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:forwarded:0.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:forwarded:forwarded:0.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:forwarded:0.1.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/forwarded@0.1.2",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "7ea53729-f776-4e24-9574-82d5b1118d37",
+      "name": "fresh",
+      "version": "0.5.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:fresh:fresh:0.5.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:fresh:fresh:0.5.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:fresh:0.5.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:fresh:0.5.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:fresh:fresh:0.5.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:fresh:0.5.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/fresh@0.5.2",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "45ece335-c345-4602-b05d-81e47e78ce88",
+      "name": "http-errors",
+      "version": "1.7.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:http_errors:http-errors:1.7.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:http-errors:http_errors:1.7.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:http-errors:http_errors:1.7.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:http_errors:http_errors:1.7.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:http-errors:http-errors:1.7.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:http-errors:http-errors:1.7.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:http_errors:http-errors:1.7.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:http_errors:http_errors:1.7.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:http_errors:http-errors:1.7.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:http-errors:http-errors:1.7.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:http_errors:1.7.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:http_errors:1.7.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:http-errors:http_errors:1.7.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:http-errors:1.7.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:http-errors:1.7.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:http_errors:http_errors:1.7.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:http_errors:1.7.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:http-errors:1.7.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/http-errors@1.7.2",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "d56fa8d7-a6dd-4d15-9329-4f6d7e7ee552",
+      "name": "iconv-lite",
+      "version": "0.4.24",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:iconv_lite:iconv-lite:0.4.24:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:iconv-lite:iconv_lite:0.4.24:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:iconv-lite:iconv_lite:0.4.24:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:iconv_lite:iconv_lite:0.4.24:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:iconv-lite:iconv-lite:0.4.24:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:iconv-lite:iconv-lite:0.4.24:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:iconv_lite:iconv-lite:0.4.24:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:iconv_lite:iconv_lite:0.4.24:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:iconv_lite:iconv-lite:0.4.24:*:*:*:*:*:*:*",
+        "cpe:2.3:a:iconv-lite:iconv-lite:0.4.24:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:iconv_lite:0.4.24:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:iconv_lite:0.4.24:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:iconv-lite:iconv_lite:0.4.24:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:iconv-lite:0.4.24:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:iconv-lite:0.4.24:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:iconv_lite:iconv_lite:0.4.24:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:iconv_lite:0.4.24:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:iconv-lite:0.4.24:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/iconv-lite@0.4.24",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "9fc22e21-eef2-4112-b706-e2537470bd10",
+      "name": "inherits",
+      "version": "2.0.3",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:inherits:inherits:2.0.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:inherits:inherits:2.0.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:inherits:2.0.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:inherits:2.0.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:inherits:inherits:2.0.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:inherits:2.0.3:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/inherits@2.0.3",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "23419383-224f-43de-ac14-ef8c264098cb",
+      "name": "ipaddr.js",
+      "version": "1.9.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:ipaddr.js:ipaddr.js:1.9.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:ipaddr.js:ipaddr.js:1.9.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:ipaddr.js:1.9.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:ipaddr.js:1.9.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:ipaddr.js:ipaddr.js:1.9.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:ipaddr.js:1.9.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/ipaddr.js@1.9.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "af7343bf-b60b-4908-a52c-8831cc68d768",
+      "name": "media-typer",
+      "version": "0.3.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:media_typer:media-typer:0.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:media-typer:media_typer:0.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:media-typer:media_typer:0.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:media_typer:media_typer:0.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:media-typer:media-typer:0.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:media-typer:media-typer:0.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:media_typer:media-typer:0.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:media_typer:media_typer:0.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:media_typer:media-typer:0.3.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:media-typer:media-typer:0.3.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:media_typer:0.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:media_typer:0.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:media-typer:media_typer:0.3.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:media-typer:0.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:media-typer:0.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:media_typer:media_typer:0.3.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:media_typer:0.3.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:media-typer:0.3.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/media-typer@0.3.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "6274dec2-462c-4643-9a79-2e508653cff3",
+      "name": "merge-descriptors",
+      "version": "1.0.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:merge_descriptors:merge-descriptors:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:merge-descriptors:merge_descriptors:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:merge-descriptors:merge_descriptors:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:merge_descriptors:merge_descriptors:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:merge-descriptors:merge-descriptors:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:merge-descriptors:merge-descriptors:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:merge_descriptors:merge-descriptors:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:merge_descriptors:merge_descriptors:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:merge_descriptors:merge-descriptors:1.0.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:merge-descriptors:merge-descriptors:1.0.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:merge_descriptors:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:merge_descriptors:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:merge-descriptors:merge_descriptors:1.0.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:merge-descriptors:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:merge-descriptors:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:merge_descriptors:merge_descriptors:1.0.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:merge_descriptors:1.0.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:merge-descriptors:1.0.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/merge-descriptors@1.0.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "97afda9a-c32e-46f9-b303-09fcd91be8cb",
+      "name": "methods",
+      "version": "1.1.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:methods:methods:1.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:methods:methods:1.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:methods:1.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:methods:1.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:methods:methods:1.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:methods:1.1.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/methods@1.1.2",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "804953dc-fbdf-40f6-8854-597ffe3c083b",
+      "name": "mime",
+      "version": "1.6.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:mime:mime:1.6.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime:mime:1.6.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:mime:1.6.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:mime:1.6.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime:mime:1.6.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:mime:1.6.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/mime@1.6.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "779e8d0a-ce09-4941-b546-fbb6dd1ac356",
+      "name": "mime-db",
+      "version": "1.44.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:mime_db:mime-db:1.44.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime-db:mime_db:1.44.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime-db:mime_db:1.44.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime_db:mime_db:1.44.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime-db:mime-db:1.44.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime-db:mime-db:1.44.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime_db:mime-db:1.44.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime_db:mime_db:1.44.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime_db:mime-db:1.44.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:mime-db:mime-db:1.44.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:mime_db:1.44.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:mime_db:1.44.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime-db:mime_db:1.44.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:mime-db:1.44.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:mime-db:1.44.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime_db:mime_db:1.44.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:mime_db:1.44.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:mime-db:1.44.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/mime-db@1.44.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "29df3626-1f8f-4577-8146-bbe668b5c092",
+      "name": "mime-types",
+      "version": "2.1.27",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:mime_types:mime-types:2.1.27:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime-types:mime_types:2.1.27:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime-types:mime_types:2.1.27:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime_types:mime_types:2.1.27:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime-types:mime-types:2.1.27:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime-types:mime-types:2.1.27:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime_types:mime-types:2.1.27:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime_types:mime_types:2.1.27:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime_types:mime-types:2.1.27:*:*:*:*:*:*:*",
+        "cpe:2.3:a:mime-types:mime-types:2.1.27:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:mime_types:2.1.27:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:mime_types:2.1.27:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:mime-types:mime_types:2.1.27:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:mime-types:2.1.27:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:mime-types:2.1.27:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:mime_types:mime_types:2.1.27:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:mime_types:2.1.27:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:mime-types:2.1.27:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/mime-types@2.1.27",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "042466cc-c234-4ad2-9cd7-80fea8587318",
+      "name": "ms",
+      "version": "2.0.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:ms:ms:2.0.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:ms:ms:2.0.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:ms:2.0.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:ms:2.0.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:ms:ms:2.0.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:ms:2.0.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/ms@2.0.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "59f0a7ac-a847-4d65-a6a6-443cb0b6f6e4",
+      "name": "negotiator",
+      "version": "0.6.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:negotiator:negotiator:0.6.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:negotiator:negotiator:0.6.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:negotiator:0.6.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:negotiator:0.6.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:negotiator:negotiator:0.6.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:negotiator:0.6.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/negotiator@0.6.2",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "8f61cc8d-c21d-45f3-b562-29cc9c258b8c",
+      "name": "on-finished",
+      "version": "2.3.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:on_finished:on-finished:2.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:on-finished:on_finished:2.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:on-finished:on_finished:2.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:on_finished:on_finished:2.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:on-finished:on-finished:2.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:on-finished:on-finished:2.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:on_finished:on-finished:2.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:on_finished:on_finished:2.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:on_finished:on-finished:2.3.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:on-finished:on-finished:2.3.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:on_finished:2.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:on_finished:2.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:on-finished:on_finished:2.3.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:on-finished:2.3.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:on-finished:2.3.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:on_finished:on_finished:2.3.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:on_finished:2.3.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:on-finished:2.3.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/on-finished@2.3.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "acfa2fc8-0d29-41b3-995a-c3b9488f0bc0",
+      "name": "parseurl",
+      "version": "1.3.3",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:parseurl:parseurl:1.3.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:parseurl:parseurl:1.3.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:parseurl:1.3.3:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:parseurl:1.3.3:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:parseurl:parseurl:1.3.3:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:parseurl:1.3.3:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/parseurl@1.3.3",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "0c81c4e6-a0b3-41d6-af38-24eb28af95fb",
+      "name": "path-to-regexp",
+      "version": "0.1.7",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:path_to_regexp:path-to-regexp:0.1.7:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:path-to-regexp:path_to_regexp:0.1.7:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:path-to-regexp:path_to_regexp:0.1.7:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:path_to_regexp:path_to_regexp:0.1.7:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:path-to-regexp:path-to-regexp:0.1.7:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:path-to-regexp:path-to-regexp:0.1.7:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:path_to_regexp:path-to-regexp:0.1.7:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:path_to_regexp:path_to_regexp:0.1.7:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:path_to_regexp:path-to-regexp:0.1.7:*:*:*:*:*:*:*",
+        "cpe:2.3:a:path-to-regexp:path-to-regexp:0.1.7:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:path_to_regexp:0.1.7:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:path_to_regexp:0.1.7:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:path-to-regexp:path_to_regexp:0.1.7:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:path-to-regexp:0.1.7:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:path-to-regexp:0.1.7:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:path_to_regexp:path_to_regexp:0.1.7:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:path_to_regexp:0.1.7:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:path-to-regexp:0.1.7:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/path-to-regexp@0.1.7",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "267d3998-4b49-4ba6-99cc-e418a95f99bc",
+      "name": "proxy-addr",
+      "version": "2.0.6",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:proxy_addr:proxy-addr:2.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:proxy-addr:proxy_addr:2.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:proxy-addr:proxy_addr:2.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:proxy_addr:proxy_addr:2.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:proxy-addr:proxy-addr:2.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:proxy-addr:proxy-addr:2.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:proxy_addr:proxy-addr:2.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:proxy_addr:proxy_addr:2.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:proxy_addr:proxy-addr:2.0.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:proxy-addr:proxy-addr:2.0.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:proxy_addr:2.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:proxy_addr:2.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:proxy-addr:proxy_addr:2.0.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:proxy-addr:2.0.6:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:proxy-addr:2.0.6:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:proxy_addr:proxy_addr:2.0.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:proxy_addr:2.0.6:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:proxy-addr:2.0.6:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/proxy-addr@2.0.6",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "31b8879b-7655-4690-a221-d15983867874",
+      "name": "qs",
+      "version": "6.7.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:qs:qs:6.7.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:qs:qs:6.7.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:qs:6.7.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:qs:6.7.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:qs:qs:6.7.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:qs:6.7.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/qs@6.7.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "2f032957-cf1c-4a9a-92d7-98285f124438",
+      "name": "range-parser",
+      "version": "1.2.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:range_parser:range-parser:1.2.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:range-parser:range_parser:1.2.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:range-parser:range_parser:1.2.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:range_parser:range_parser:1.2.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:range-parser:range-parser:1.2.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:range-parser:range-parser:1.2.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:range_parser:range-parser:1.2.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:range_parser:range_parser:1.2.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:range_parser:range-parser:1.2.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:range-parser:range-parser:1.2.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:range_parser:1.2.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:range_parser:1.2.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:range-parser:range_parser:1.2.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:range-parser:1.2.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:range-parser:1.2.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:range_parser:range_parser:1.2.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:range_parser:1.2.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:range-parser:1.2.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/range-parser@1.2.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "198ca067-841b-467a-9209-e811526064e2",
+      "name": "raw-body",
+      "version": "2.4.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:raw_body:raw-body:2.4.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:raw-body:raw_body:2.4.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:raw-body:raw_body:2.4.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:raw_body:raw_body:2.4.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:raw-body:raw-body:2.4.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:raw-body:raw-body:2.4.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:raw_body:raw-body:2.4.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:raw_body:raw_body:2.4.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:raw_body:raw-body:2.4.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:raw-body:raw-body:2.4.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:raw_body:2.4.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:raw_body:2.4.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:raw-body:raw_body:2.4.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:raw-body:2.4.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:raw-body:2.4.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:raw_body:raw_body:2.4.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:raw_body:2.4.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:raw-body:2.4.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/raw-body@2.4.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "d7730e13-dea2-4d26-8c09-0ed338ae54fd",
+      "name": "safe-buffer",
+      "version": "5.1.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:safe_buffer:safe-buffer:5.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:safe-buffer:safe_buffer:5.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:safe-buffer:safe_buffer:5.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:safe_buffer:safe_buffer:5.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:safe-buffer:safe-buffer:5.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:safe-buffer:safe-buffer:5.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:safe_buffer:safe-buffer:5.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:safe_buffer:safe_buffer:5.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:safe_buffer:safe-buffer:5.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:safe-buffer:safe-buffer:5.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:safe_buffer:5.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:safe_buffer:5.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:safe-buffer:safe_buffer:5.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:safe-buffer:5.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:safe-buffer:5.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:safe_buffer:safe_buffer:5.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:safe_buffer:5.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:safe-buffer:5.1.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/safe-buffer@5.1.2",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "4e59ff0d-e15c-4872-9c0e-96140eaf5495",
+      "name": "safer-buffer",
+      "version": "2.1.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:safer_buffer:safer-buffer:2.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:safer-buffer:safer_buffer:2.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:safer-buffer:safer_buffer:2.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:safer_buffer:safer_buffer:2.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:safer-buffer:safer-buffer:2.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:safer-buffer:safer-buffer:2.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:safer_buffer:safer-buffer:2.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:safer_buffer:safer_buffer:2.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:safer_buffer:safer-buffer:2.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:safer-buffer:safer-buffer:2.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:safer_buffer:2.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:safer_buffer:2.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:safer-buffer:safer_buffer:2.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:safer-buffer:2.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:safer-buffer:2.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:safer_buffer:safer_buffer:2.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:safer_buffer:2.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:safer-buffer:2.1.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/safer-buffer@2.1.2",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "0fa586d3-22c2-44dc-961f-b659833dc71d",
+      "name": "send",
+      "version": "0.17.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:send:send:0.17.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:send:send:0.17.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:send:0.17.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:send:0.17.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:send:send:0.17.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:send:0.17.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/send@0.17.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "8a9f8b33-ad30-4179-8493-13c2f58c9c06",
+      "name": "serve-static",
+      "version": "1.14.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:serve_static:serve-static:1.14.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:serve-static:serve_static:1.14.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:serve-static:serve_static:1.14.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:serve_static:serve_static:1.14.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:serve-static:serve-static:1.14.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:serve-static:serve-static:1.14.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:serve_static:serve-static:1.14.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:serve_static:serve_static:1.14.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:serve_static:serve-static:1.14.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:serve-static:serve-static:1.14.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:serve_static:1.14.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:serve_static:1.14.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:serve-static:serve_static:1.14.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:serve-static:1.14.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:serve-static:1.14.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:serve_static:serve_static:1.14.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:serve_static:1.14.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:serve-static:1.14.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/serve-static@1.14.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "62f49204-cd89-493e-a48b-4f65175b9723",
+      "name": "setprototypeof",
+      "version": "1.1.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:setprototypeof:setprototypeof:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:setprototypeof:setprototypeof:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:setprototypeof:1.1.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:setprototypeof:1.1.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:setprototypeof:setprototypeof:1.1.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:setprototypeof:1.1.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/setprototypeof@1.1.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "18cc6e90-817d-4eb4-bdcf-766d46efff8b",
+      "name": "statuses",
+      "version": "1.5.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:statuses:statuses:1.5.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:statuses:statuses:1.5.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:statuses:1.5.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:statuses:1.5.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:statuses:statuses:1.5.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:statuses:1.5.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/statuses@1.5.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "c522842e-e521-4f67-9919-712ad773f780",
+      "name": "toidentifier",
+      "version": "1.0.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:toidentifier:toidentifier:1.0.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:toidentifier:toidentifier:1.0.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:toidentifier:1.0.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:toidentifier:1.0.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:toidentifier:toidentifier:1.0.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:toidentifier:1.0.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/toidentifier@1.0.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "54f4f95d-f099-4330-9526-0daccfe1111e",
+      "name": "type-is",
+      "version": "1.6.18",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:type_is:type-is:1.6.18:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:type-is:type_is:1.6.18:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:type-is:type_is:1.6.18:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:type_is:type_is:1.6.18:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:type-is:type-is:1.6.18:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:type-is:type-is:1.6.18:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:type_is:type-is:1.6.18:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:type_is:type_is:1.6.18:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:type_is:type-is:1.6.18:*:*:*:*:*:*:*",
+        "cpe:2.3:a:type-is:type-is:1.6.18:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:type_is:1.6.18:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:type_is:1.6.18:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:type-is:type_is:1.6.18:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:type-is:1.6.18:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:type-is:1.6.18:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:type_is:type_is:1.6.18:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:type_is:1.6.18:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:type-is:1.6.18:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/type-is@1.6.18",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "8ebedd91-65fa-46cd-ad5e-28d813650120",
+      "name": "unpipe",
+      "version": "1.0.0",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:unpipe:unpipe:1.0.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:unpipe:unpipe:1.0.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:unpipe:1.0.0:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:unpipe:1.0.0:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:unpipe:unpipe:1.0.0:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:unpipe:1.0.0:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/unpipe@1.0.0",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "5a8ab519-2a55-4ec2-a7b1-97647db4fd5c",
+      "name": "utils-merge",
+      "version": "1.0.1",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:utils_merge:utils-merge:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:utils-merge:utils_merge:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:utils-merge:utils_merge:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:utils_merge:utils_merge:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:utils-merge:utils-merge:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:utils-merge:utils-merge:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:utils_merge:utils-merge:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:utils_merge:utils_merge:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:utils_merge:utils-merge:1.0.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:utils-merge:utils-merge:1.0.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:utils_merge:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:utils_merge:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:utils-merge:utils_merge:1.0.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:utils-merge:1.0.1:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:utils-merge:1.0.1:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:utils_merge:utils_merge:1.0.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:utils_merge:1.0.1:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:utils-merge:1.0.1:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/utils-merge@1.0.1",
+      "metadataType": "",
+      "metadata": null
+    },
+    {
+      "id": "cb151537-5fe5-4f06-a786-091d1965033b",
+      "name": "vary",
+      "version": "1.1.2",
+      "type": "npm",
+      "foundBy": "javascript-lock-cataloger",
+      "locations": [
+        {
+          "path": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm/package-lock.json"
+        }
+      ],
+      "licenses": [],
+      "language": "javascript",
+      "cpes": [
+        "cpe:2.3:a:vary:vary:1.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:vary:vary:1.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:*:vary:1.1.2:*:*:*:*:node.js:*:*",
+        "cpe:2.3:a:*:vary:1.1.2:*:*:*:*:nodejs:*:*",
+        "cpe:2.3:a:vary:vary:1.1.2:*:*:*:*:*:*:*",
+        "cpe:2.3:a:*:vary:1.1.2:*:*:*:*:*:*:*"
+      ],
+      "purl": "pkg:npm/vary@1.1.2",
+      "metadataType": "",
+      "metadata": null
+    }
+  ],
+  "artifactRelationships": [],
+  "source": {
+    "type": "directory",
+    "target": "/Users/swigmore/workspace/paketo-buildpacks/samples/nodejs/npm"
+  },
+  "distro": {
+    "name": "",
+    "version": "",
+    "idLike": ""
+  },
+  "descriptor": {
+    "name": "syft",
+    "version": "0.17.0"
+  },
+  "schema": {
+    "version": "1.1.0",
+    "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-1.1.0.json"
+  }
+}
