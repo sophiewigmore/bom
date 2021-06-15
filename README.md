@@ -57,5 +57,6 @@ CycloneDX (output of Syft examples) seems to fit our use case a bit better.
 
 
 #### To Do
-* Offline environments?
 * Conversion tooling
+* Offline environments?
+* Check CycloneDX Scanning Tools
