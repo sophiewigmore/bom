@@ -1,6 +1,6 @@
 # Investigating BoM tools and formats
 
-### [FIELDS.md](https://github.com/sophiewigmore/bom/blob/master/FIELDS.md)
+### [FIELDS.md](FIELDS.md)
 Contains the BoM fields of interest and how we believe we can represent them in
 CycloneDX and SPDX.
 
@@ -8,38 +8,51 @@ CycloneDX and SPDX.
 ### Tools Investigations
 
 #### Pack
-* [Node.JS example](https://github.com/sophiewigmore/bom/blob/master/pack/node) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
-* [NPM example](https://github.com/sophiewigmore/bom/blob/master/pack/npm) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
-* [Yarn example](https://github.com/sophiewigmore/bom/blob/master/pack/yarn) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
-* [Go Mod example](https://github.com/sophiewigmore/bom/blob/master/pack/go-mod) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
-* [Maven example](https://github.com/sophiewigmore/bom/blob/master/pack/maven) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/maven)
+* [Node.JS example](pack/node) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
+* [NPM example](pack/npm) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
+* [Yarn example](pack/yarn) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
+* [Go Mod example](pack/go-mod) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
+* [Maven example](pack/maven) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/maven)
 
 
 #### [Syft](https://github.com/anchore/syft)
-* [Node.JS example from image](https://github.com/sophiewigmore/bom/blob/master/syft/from-image/node) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
-* [NPM example from image](https://github.com/sophiewigmore/bom/blob/master/syft/from-image/npm) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
-* [NPM example from image](https://github.com/sophiewigmore/bom/blob/master/syft/from-image/yarn) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
-* [Go Mod example from image](https://github.com/sophiewigmore/bom/blob/master/syft/from-image/go-mod) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
-* [Maven example from image](https://github.com/sophiewigmore/bom/blob/master/syft/from-image/maven) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/maven)
+* [Node.JS example from image](syft/node/from-image) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
+* [NPM example from image](syft/npm/from-image) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
+* [NPM example from image](syft/yarn/from-image) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
+* [Go Mod example from image](syft/go-mod/from-image) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
+* [Maven example from image](syft/maven/from-image) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/maven)
 --------------------------------
-* [Node.JS example from source](https://github.com/sophiewigmore/bom/blob/master/syft/from-source/node) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
-* [NPM example from source](https://github.com/sophiewigmore/bom/blob/master/syft/from-source/npm) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
-* [NPM example from source](https://github.com/sophiewigmore/bom/blob/master/syft/from-source/yarn) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
-* [Go Mod example from source](https://github.com/sophiewigmore/bom/blob/master/syft/from-source/go-mod) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
-* [Maven example from source](https://github.com/sophiewigmore/bom/blob/master/syft/from-source/maven) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/maven)
+* [Node.JS example from source](syft/node/from-source) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
+* [NPM example from source](syft/npm/from-source) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
+* [NPM example from source](syft/yarn/from-source) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
+* [Go Mod example from source](syft/go-mod/from-source) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
+* [Maven example from source](syft/maven/from-source) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/maven)
 
+#### [Conversion](https://github.com/CycloneDX/cyclonedx-cli)
+* [Node.JS example from image](cyclonedx-cli-conversion/node)
 
-#### [Tern](https://github.com/tern-tools/tern)
-* [Node.JS example](https://github.com/sophiewigmore/bom/blob/master/tern/node) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
-* [NPM example](https://github.com/sophiewigmore/bom/blob/master/tern/npm) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
-* [NPM example](https://github.com/sophiewigmore/bom/blob/master/tern/yarn) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
-* [Go Mod example](https://github.com/sophiewigmore/bom/blob/master/tern/go-mod) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
-* [Maven example](https://github.com/sophiewigmore/bom/blob/master/tern/maven) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/maven)
+#### Tern
+* [Node.JS example](tern/node) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
+* [NPM example](tern/npm) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
+* [NPM example](tern/yarn) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
+* [Go Mod example](tern/go-mod) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
+* [Maven example](tern/maven) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/maven)
 
 
 #### Conclusions
 
-CycloneDX (output of Syft examples) seems to fit our use case a bit better.
+**Syft**
+* The JSON output of Syft is NOT CycloneDX format, but rather it's a superset
+  of all metadata that can be retrieved.
+* The real CycloneDX format from Syft (XML) is missing some information like
+  CPEs, hashes, and layer locations. 
+* [This issue](https://github.com/CycloneDX/cyclonedx-cli) on Syft looks like a
+  request for what we might want
+
+* The enriched formats have all of the information we need, but they don't seem
+  to align with CycloneDX or SPDX as well as we once thought
+
+Syft enriched JSON seems to fit our use case
 * Gets full information on all OS level and indirectly installed packages
   * CPEs, licenses, urls, shas, layer location, name, version
   * These are all fields we feel strongly about being first-class citizens
@@ -54,7 +67,6 @@ CycloneDX (output of Syft examples) seems to fit our use case a bit better.
 
 * Does a better job of conveying the information we think is important
 * The tooling ecosystem feels better fleshed out for the use cases we have (language module metadata collection)
-
 
 #### To Do
 * Conversion tooling
