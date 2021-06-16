@@ -17,7 +17,9 @@ CycloneDX and SPDX.
 
 #### [Syft](https://github.com/anchore/syft)
 Command run for CycloneDX XML (from source): `syft packages <path-to-source> -o cyclonedx`
+
 Command run for CycloneDX XML (from image): `syft packages <image-name> -o cyclonedx`
+
 Includes examples in both Syft enriched JSON format (not CycloneDX) and CycloneDX (XML)
 
 * [Node.JS example from image](syft/node/from-image) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
@@ -39,6 +41,8 @@ Includes examples in both Syft enriched JSON format (not CycloneDX) and CycloneD
 #### Tern
 Command run for true SPDX JSON format: `./docker_run.sh ternd "report -f spdxjson -i built-app-image:latest"`
 
+Includes examples in both Tern enriched JSON format (not SPDX) and true SPDX (JSON)
+
 * [Node.JS example](tern/node) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
 * [NPM example](tern/npm) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
 * [NPM example](tern/yarn) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
@@ -48,11 +52,23 @@ Command run for true SPDX JSON format: `./docker_run.sh ternd "report -f spdxjso
 
 #### Conclusions
 
+**Time Averages for Scanning**
+* Syft on a pre-built image: 4.8062s
+* Syft on application source code: 0.7624s
+* Tern on a pre-built image: 136.4412s
+
+**Tern**
+* We generated both a Tern-specific SPDX JSON file, as well as a "true" SPDX JSON file.
+* It appears that while neither have *all* of the metadata we are looking for,
+  the "true" SPDX format has the least.
+  * It does not have CPEs, SHAs, and layer paths
+
 **Syft**
 * The JSON output of Syft is NOT CycloneDX format, but rather it's a superset
   of all metadata that can be retrieved.
-* The real CycloneDX format from Syft (XML) is missing some information like
-  CPEs, hashes, and layer locations. 
+* The real CycloneDX format from Syft (XML) is missing some information.
+  * It does not have CPEs, SHAs, and layer paths
+
 * [This issue](https://github.com/CycloneDX/cyclonedx-cli) on Syft looks like a
   request for what we might want
 
@@ -74,6 +90,19 @@ Syft enriched JSON seems to fit our use case
 
 * Does a better job of conveying the information we think is important
 * The tooling ecosystem feels better fleshed out for the use cases we have (language module metadata collection)
+
+**Format Concerns**
+
+The fact that these scanning tools all seem to have enriched BOM outputs that
+are outside of either SPDX or CycloneDX and then there translations to these
+formats are sparse is with interesting and cause for pause.
+
+* Why do these tools not just try and do everything in the existing BOM formats
+  that they support?
+* Why is the translation between their format and the "official" format so
+  sparse?
+* Is it sparse because they don't care about those formats or because they
+  cannot get more specfic?
 
 #### To Do
 * Conversion tooling
