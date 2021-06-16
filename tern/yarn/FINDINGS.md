@@ -1,5 +1,12 @@
 # Running Tern on a yarn app
 
+## True SPDX JSON format
+Time:
+real    2m3.314s
+user    0m0.233s
+sys     0m0.074s
+
+## Non-SPDX JSON format
 Gets every file within the node_modules directory and reports:
 * name
 * version

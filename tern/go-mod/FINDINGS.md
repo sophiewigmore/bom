@@ -1,5 +1,12 @@
 # Running Tern on a Go module app
 
+## True SPDX JSON format
+Time:
+real    1m37.153s
+user    0m0.227s
+sys     0m0.071s
+
+## Non-SPDX JSON format
 Gets full information on all OS level debian packages:
 * name
 * version

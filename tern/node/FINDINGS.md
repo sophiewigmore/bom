@@ -1,5 +1,12 @@
 # Running Tern on a Node.JS app with no package manager
 
+## True SPDX JSON format
+Time:
+real    1m56.993s
+user    0m0.223s
+sys     0m0.069s
+
+## Non-SPDX JSON format
 Gets every file within the node_modules directory and reports:
 * name
 * version

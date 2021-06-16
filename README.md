@@ -16,6 +16,8 @@ CycloneDX and SPDX.
 
 
 #### [Syft](https://github.com/anchore/syft)
+Command run for CycloneDX XML (from source): `syft packages <path-to-source> -o cyclonedx`
+Command run for CycloneDX XML (from image): `syft packages <image-name> -o cyclonedx`
 Includes examples in both Syft enriched JSON format (not CycloneDX) and CycloneDX (XML)
 
 * [Node.JS example from image](syft/node/from-image) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
@@ -35,6 +37,8 @@ Includes examples in both Syft enriched JSON format (not CycloneDX) and CycloneD
 * [Node.JS example from image](cyclonedx-cli-conversion/node)
 
 #### Tern
+Command run for true SPDX JSON format: `./docker_run.sh ternd "report -f spdxjson -i built-app-image:latest"`
+
 * [Node.JS example](tern/node) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
 * [NPM example](tern/npm) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
 * [NPM example](tern/yarn) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)

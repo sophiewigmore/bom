@@ -1,5 +1,13 @@
 # Running Tern on a Maven app
 
+## True SPDX JSON format
+Time:
+real    3m39.645s
+user    0m0.234s
+sys     0m0.079s
+
+
+## Non-SPDX JSON format
 Gets full information on all indirectly installed java archive dependencies and Debian packages:
 * name
 * version
