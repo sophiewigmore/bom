@@ -1,5 +1,14 @@
 # Running Syft on a Go module app
 
+## CycloneDX XML
+Time:
+real    0m2.659s
+user    0m0.741s
+sys     0m0.969s
+
+* no CPEs, SHAs, layer locations
+
+## Enriched JSON format (Not CycloneDX)
 Gets full information on all OS level debian packages:
 * name
 * version

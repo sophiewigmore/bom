@@ -1,6 +1,14 @@
 # Running Syft on a Node.JS app with no package manager
 
-# Enriched Syft JSON Output
+## CycloneDX XML
+Time:
+real    0m4.816s
+user    0m1.380s
+sys     0m1.307s
+
+* no CPEs, SHAs, layer locations
+
+## Enriched JSON output (not Cyclonedx)
 **Note: The JSON output of Syft is NOT CycloneDX format, but rather
 it's a superset of all metadata that can be retrieved.**
 

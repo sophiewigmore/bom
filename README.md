@@ -16,6 +16,8 @@ CycloneDX and SPDX.
 
 
 #### [Syft](https://github.com/anchore/syft)
+Includes examples in both Syft enriched JSON format (not CycloneDX) and CycloneDX (XML)
+
 * [Node.JS example from image](syft/node/from-image) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/no-package-manager)
 * [NPM example from image](syft/npm/from-image) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/npm)
 * [NPM example from image](syft/yarn/from-image) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
@@ -27,6 +29,7 @@ CycloneDX and SPDX.
 * [NPM example from source](syft/yarn/from-source) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/nodejs/yarn)
 * [Go Mod example from source](syft/go-mod/from-source) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/go/mod)
 * [Maven example from source](syft/maven/from-source) / [sample app used](https://github.com/paketo-buildpacks/samples/tree/main/maven)
+
 
 #### [Conversion](https://github.com/CycloneDX/cyclonedx-cli)
 * [Node.JS example from image](cyclonedx-cli-conversion/node)
