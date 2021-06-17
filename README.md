@@ -69,7 +69,7 @@ Includes examples in both Tern enriched JSON format (not SPDX) and true SPDX (JS
 * The real CycloneDX format from Syft (XML) is missing some information.
   * It does not have CPEs, SHAs, and layer paths
 
-* [This issue](https://github.com/CycloneDX/cyclonedx-cli) on Syft looks like a
+* [This issue](https://github.com/anchore/syft/issues/325) on Syft looks like a
   request for what we might want
 
 * The enriched formats have all of the information we need, but they don't seem
